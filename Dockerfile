@@ -1,2 +1,2 @@
 FROM ubuntu:20.04
-CMD bash
+CMD tail -f /dev/null
